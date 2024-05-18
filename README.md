@@ -6,7 +6,7 @@ VKİ,
 Cinsiyet,
 Sigara içme alışkanlığı,
 Çocuk sayısı,
-Yaşadığı bölge (ABD eyaleti),
+Yaşadığı bölge (ABD eyaleti)
 
 Veri Kaynağı:
 https://www.kaggle.com/datasets/mirichoi0218/insurance/data
